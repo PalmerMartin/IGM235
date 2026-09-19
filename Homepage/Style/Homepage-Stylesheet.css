@@ -1,0 +1,47 @@
+body
+{
+    background-color: #CACBD6;
+}
+main, header
+{
+    border: 1px solid black;
+    width: 80vw;
+    margin: 0 auto;
+    padding: 1rem;
+    background-color: #E3DAff;
+}
+#bio
+{
+    color: blue;
+    text-align: center;
+}
+#my-pic
+{
+    display: block;
+    margin: 0 auto;
+}
+h1, h2, h3
+{
+    color: #4C191B;
+    font-family: Arial, serif;
+}
+a:link
+{
+    color: #963B5A;
+}
+a:visited
+{
+    color: #963B5A;
+}
+a:hover
+{
+    color: #963B5A;
+}
+a:focus
+{
+    color: #963B5A;
+}
+a:active
+{
+    color: #963B5A;
+}
